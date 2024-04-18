@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+.txt-plomo {
+    color: #212529;
+}
+
+.txt-gris {
+    color: #707070;
+}
+
+.img_logo {
+    width: 86px;
+    height: 25px;
+}
+
+.bg_main {
+    background-color: #28a745;
+}
+
+.card-width {
+    width: 20rem;
+}
+
+.precio_real {
+    color: #707070;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 16px;
+}
+
+.precio_rebajado {
+    color: #28A745;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500; /*Medium*/
+    font-style: normal;
+    font-size: 20px;
+}
+
+.btn_enviar {
+    background-color: #F8F9FA;
+    border: #DDDDDD;
+    color: #212529;
+}
+
+.roboto-light_20 {
+    font-weight: 300;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.roboto-light_16 {
+    font-weight: 300;
+    font-style: normal;
+    font-size: 16px;
+}
+
+.roboto-light_13 {
+    font-weight: 300;
+    font-style: normal;
+    font-size: 13px;
+}
+
+.roboto-medium_21 {
+    font-weight: 500;
+    font-style: normal;
+    font-size: 21px;
+}
+
+.roboto-medium_16 {
+    font-weight: 500;
+    font-style: normal;
+    font-size: 16px;
+}
